@@ -1,0 +1,21 @@
+* text=auto eol=lf
+*.bat eol=crlf
+*.ipynb linguist-detectable=false
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.STL binary
+*.stl binary
+*.PNG binary
+
+# model checkpoints and other binary data: never convert line endings
+*.pt binary
+*.pth binary
+*.ckpt binary
+*.npz binary
+*.npy binary
+*.zip binary
+*.mp4 binary

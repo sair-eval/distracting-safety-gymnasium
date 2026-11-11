@@ -1,0 +1,7 @@
+# Evaluation of the released SAIR checkpoints (Python 3.8). The environment itself is installed with
+# `pip install -e .` from the repository root.
+numpy==1.23.5
+torch==2.4.1
+opencv-python==4.10.0.84
+gym==0.25.0
+pillow

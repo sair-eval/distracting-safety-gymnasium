@@ -1,0 +1,57 @@
+method,task,trained_with,seed,folder,agent_filter,gremlin_num,cost_discount
+SAIR,SafetyCarGoal1-v0,none,1,weights/sair/CarGoal1-none-seed1,agents,,0.995
+SAIR,SafetyCarGoal1-v0,none,2,weights/sair/CarGoal1-none-seed2,agents,,0.995
+SAIR,SafetyCarGoal1-v0,color,1,weights/sair/CarGoal1-color-seed1,agent_body,,0.99
+SAIR,SafetyCarGoal1-v0,color,2,weights/sair/CarGoal1-color-seed2,agent_body,,0.99
+SAIR,SafetyCarGoal1-v0,color,3,weights/sair/CarGoal1-color-seed3,agent_body,,0.99
+SAIR,SafetyPointButton1-v0,none,1,weights/sair/PointButton1-none-seed1,agents,,0.995
+SAIR,SafetyPointButton1-v0,none,2,weights/sair/PointButton1-none-seed2,agents,,0.995
+SAIR,SafetyPointButton1-v0,none,3,weights/sair/PointButton1-none-seed3,agents,,0.995
+SAIR,SafetyPointButton1-v0,color,1,weights/sair/PointButton1-color-seed1,agents,0,0.99
+SAIR,SafetyPointButton1-v0,color,2,weights/sair/PointButton1-color-seed2,agents,0,0.99
+SAIR,SafetyPointButton1-v0,color,3,weights/sair/PointButton1-color-seed3,agents,0,0.99
+SAIR,SafetyPointGoal1-v0,none,1,weights/sair/PointGoal1-none-seed1,agents,,0.995
+SAIR,SafetyPointGoal1-v0,none,2,weights/sair/PointGoal1-none-seed2,agents,,0.995
+SAIR,SafetyPointGoal1-v0,none,3,weights/sair/PointGoal1-none-seed3,agents,,0.995
+SAIR,SafetyPointGoal1-v0,color,1,weights/sair/PointGoal1-color-seed1,agent_body,,0.99
+SAIR,SafetyPointGoal1-v0,color,2,weights/sair/PointGoal1-color-seed2,agent_body,,0.99
+SAIR,SafetyPointGoal1-v0,color,3,weights/sair/PointGoal1-color-seed3,agent_body,,0.995
+SAIR,SafetyPointGoal1-v0,video,1,weights/sair/PointGoal1-video-seed1,agents,,0.99
+SAIR,SafetyPointGoal2-v0,none,1,weights/sair/PointGoal2-none-seed1,agents,,0.995
+SAIR,SafetyPointGoal2-v0,none,2,weights/sair/PointGoal2-none-seed2,agents,,0.995
+SAIR,SafetyPointGoal2-v0,none,3,weights/sair/PointGoal2-none-seed3,agents,,0.995
+SAIR,SafetyPointGoal2-v0,color,1,weights/sair/PointGoal2-color-seed1,agents,,0.99
+SAIR,SafetyPointGoal2-v0,color,2,weights/sair/PointGoal2-color-seed2,agents,,0.99
+SAIR,SafetyPointGoal2-v0,color,3,weights/sair/PointGoal2-color-seed3,agents,,0.99
+SAIR (w_c = 0),SafetyCarGoal1-v0,none,1,weights/sair_wc0/CarGoal1-none-seed1,agents,,0.99
+SAIR (w_c = 0),SafetyCarGoal1-v0,none,2,weights/sair_wc0/CarGoal1-none-seed2,agents,,0.99
+SAIR (w_c = 0),SafetyCarGoal1-v0,none,3,weights/sair_wc0/CarGoal1-none-seed3,agents,,0.99
+SAIR (w_c = 0),SafetyCarGoal1-v0,color,1,weights/sair_wc0/CarGoal1-color-seed1,agents,,0.99
+SAIR (w_c = 0),SafetyCarGoal1-v0,color,2,weights/sair_wc0/CarGoal1-color-seed2,agents,,0.99
+SAIR (w_c = 0),SafetyCarGoal1-v0,color,3,weights/sair_wc0/CarGoal1-color-seed3,agents,,0.99
+SAIR (w_c = 0),SafetyPointButton1-v0,none,1,weights/sair_wc0/PointButton1-none-seed1,agents,,0.99
+SAIR (w_c = 0),SafetyPointButton1-v0,none,2,weights/sair_wc0/PointButton1-none-seed2,agents,,0.99
+SAIR (w_c = 0),SafetyPointButton1-v0,none,3,weights/sair_wc0/PointButton1-none-seed3,agents,,0.99
+SAIR (w_c = 0),SafetyPointButton1-v0,color,1,weights/sair_wc0/PointButton1-color-seed1,agents,0,0.99
+SAIR (w_c = 0),SafetyPointButton1-v0,color,2,weights/sair_wc0/PointButton1-color-seed2,agents,0,0.99
+SAIR (w_c = 0),SafetyPointButton1-v0,color,3,weights/sair_wc0/PointButton1-color-seed3,agents,0,0.99
+SAIR (w_c = 0),SafetyPointGoal1-v0,none,1,weights/sair_wc0/PointGoal1-none-seed1,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal1-v0,none,2,weights/sair_wc0/PointGoal1-none-seed2,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal1-v0,none,3,weights/sair_wc0/PointGoal1-none-seed3,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal1-v0,color,1,weights/sair_wc0/PointGoal1-color-seed1,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal1-v0,color,2,weights/sair_wc0/PointGoal1-color-seed2,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal1-v0,color,3,weights/sair_wc0/PointGoal1-color-seed3,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal1-v0,video,1,weights/sair_wc0/PointGoal1-video-seed1,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal2-v0,none,1,weights/sair_wc0/PointGoal2-none-seed1,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal2-v0,none,2,weights/sair_wc0/PointGoal2-none-seed2,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal2-v0,none,3,weights/sair_wc0/PointGoal2-none-seed3,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal2-v0,color,1,weights/sair_wc0/PointGoal2-color-seed1,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal2-v0,color,2,weights/sair_wc0/PointGoal2-color-seed2,agents,,0.99
+SAIR (w_c = 0),SafetyPointGoal2-v0,color,3,weights/sair_wc0/PointGoal2-color-seed3,agents,,0.99
+DBC,SafetyCarGoal1-v0,none,not recorded,weights/dbc/CarGoal1-none,agents,,
+DBC,SafetyCarGoal1-v0,color,not recorded,weights/dbc/CarGoal1-color,agent_body,,
+DBC,SafetyPointGoal1-v0,none,not recorded,weights/dbc/PointGoal1-none,agents,,
+DBC,SafetyPointGoal1-v0,color,not recorded,weights/dbc/PointGoal1-color,agent_body,,
+DBC,SafetyPointGoal1-v0,video,1,weights/dbc/PointGoal1-video-seed1,agents,,
+DBC,SafetyPointGoal2-v0,none,not recorded,weights/dbc/PointGoal2-none,agents,,
+DBC,SafetyPointGoal2-v0,color,not recorded,weights/dbc/PointGoal2-color,agent_body,,
